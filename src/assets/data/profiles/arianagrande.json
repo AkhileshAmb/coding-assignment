@@ -1,0 +1,33 @@
+{
+  "cached": true,
+  "contact": {
+    "showEmail": false,
+    "showPhone": false
+  },
+  "data": {
+    "success": true,
+    "version": "2",
+    "report_info": {
+      "report_id": "arianagrande_profile",
+      "created": "2026-07-02T00:00:00.000Z",
+      "profile_updated": "2026-07-02T00:00:00.000Z"
+    },
+    "user_profile": {
+      "type": "instagram",
+      "user_id": "7719696",
+      "username": "arianagrande",
+      "url": "https://www.instagram.com/arianagrande",
+      "picture": "PASTE_THE_SAME_PICTURE_URL_FROM_search_instagram_json",
+      "fullname": "Ariana Grande",
+      "description": "Singer, songwriter and actress.",
+      "is_verified": true,
+      "followers": 376000000,
+      "posts_count": 5300,
+      "engagements": 2300000,
+      "engagement_rate": 0.0061,
+      "avg_likes": 2300000,
+      "avg_comments": 20000,
+      "avg_views": 0
+    }
+  }
+}

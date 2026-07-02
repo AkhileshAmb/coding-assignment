@@ -1,0 +1,33 @@
+{
+  "cached": true,
+  "contact": {
+    "showEmail": false,
+    "showPhone": false
+  },
+  "data": {
+    "success": true,
+    "version": "2",
+    "report_info": {
+      "report_id": "khloekardashian_profile",
+      "created": "2026-07-02T00:00:00.000Z",
+      "profile_updated": "2026-07-02T00:00:00.000Z"
+    },
+    "user_profile": {
+      "type": "instagram",
+      "user_id": "12281816",
+      "username": "khloekardashian",
+      "url": "https://www.instagram.com/khloekardashian",
+      "picture": "PASTE_THE_SAME_PICTURE_URL_FROM_search_instagram_json",
+      "fullname": "Khloé Kardashian",
+      "description": "Founder of Good American • TV Personality",
+      "is_verified": true,
+      "followers": 304000000,
+      "posts_count": 4600,
+      "engagements": 1100000,
+      "engagement_rate": 0.0036,
+      "avg_likes": 1100000,
+      "avg_comments": 9600,
+      "avg_views": 0
+    }
+  }
+}

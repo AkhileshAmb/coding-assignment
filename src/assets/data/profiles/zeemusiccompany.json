@@ -1,0 +1,63 @@
+{
+  "cached": true,
+  "contact": {
+    "showEmail": false,
+    "showPhone": false
+  },
+  "data": {
+    "success": true,
+    "version": "2",
+    "report_info": {
+      "report_id": "zeemusiccompany",
+      "created": "2026-07-01T00:00:00.000Z",
+      "profile_updated": "2026-07-01T00:00:00.000Z"
+    },
+    "user_profile": {
+      "type": "youtube",
+      "user_id": "UCFFbwnve3yF62-tVXkTyHqg",
+      "username": "zeemusiccompany",
+      "custom_name": "zeemusiccompany",
+      "handle": "Zee Music Company",
+      "url": "https://www.youtube.com/@zeemusiccompany",
+      "picture": "YOUR_PROFILE_PICTURE_URL",
+      "fullname": "Zee Music Company",
+      "description": "Official YouTube channel of Zee Music Company featuring the latest Bollywood songs, music videos, albums, artists, trailers and exclusive releases.",
+      "is_verified": true,
+      "is_hidden": false,
+      "language": {
+        "code": "en",
+        "name": "English"
+      },
+      "followers": 111000000,
+      "posts_count": 19500,
+      "engagements": 970000,
+      "engagement_rate": 0.87,
+      "avg_likes": 970000,
+      "avg_dislikes": 0,
+      "avg_comments": 9800,
+      "avg_views": 36500000,
+      "total_views": 87000000000,
+      "stat_history": [],
+      "geo": {
+        "country": {
+          "id": 304716,
+          "name": "India",
+          "code": "IN"
+        }
+      },
+      "contacts": [],
+      "top_posts": [],
+      "recent_posts": []
+    },
+    "audience_likers": {
+      "success": false,
+      "error": "empty_audience"
+    },
+    "audience_followers": {
+      "success": true,
+      "data": {
+        "audience_lookalikes": []
+      }
+    }
+  }
+}

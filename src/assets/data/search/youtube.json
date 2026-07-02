@@ -9,7 +9,7 @@
                     "custom_name": "MrBeast6000",
                     "handle": "MrBeast",
                     "url": "https://www.youtube.com/channel/UCX6OQ3DkcsbYNE6H8uQQuVA",
-                    "picture": "https://ui-avatars.com/api/?name=MrBeast&background=FF0000&color=fff&size=480&bold=true",
+                    "picture": "https://yt3.googleusercontent.com/nxYrc_1_2f77DoBadyxMTmv7ZpRZapHR5jbuYe7PlPd5cIRJxtNNEYyOC0ZsxaDyJJzXrnJiuDE=s120-c-k-c0x00ffffff-no-rj",
                     "fullname": "MrBeast",
                     "is_verified": true,
                     "followers": 324000000,
@@ -19,7 +19,7 @@
                 },
                 "audience_source": "followers"
             }
-        },
+        },  
         {
             "account": {
                 "user_profile": {
@@ -27,7 +27,7 @@
                     "username": "tseries",
                     "handle": "tseries",
                     "url": "https://www.youtube.com/channel/UCq-Fj5jknLsUf-MWSy4_brA",
-                    "picture": "https://ui-avatars.com/api/?name=T+Series&background=E60000&color=fff&size=480&bold=true",
+                    "picture": "https://yt3.googleusercontent.com/VunTf0NzCeboiPjbesBdnQuxaF3Lja7UGRbBGQAWRJgMSTj9TTLO3pS1X9qPOJGCNnmPrXeY=s120-c-k-c0x00ffffff-no-rj",
                     "fullname": "T-Series",
                     "is_verified": true,
                     "followers": 277000000,
@@ -42,13 +42,13 @@
             "account": {
                 "user_profile": {
                     "user_id": "UCbCmjCuTUZos6Inko4u57UQ",
-                    "username": "checkgate",
+                    "username": "CoComelon",
                     "custom_name": "CoComelon",
                     "handle": "CoComelon",
                     "url": "https://www.youtube.com/channel/UCbCmjCuTUZos6Inko4u57UQ",
                     "picture": "https://yt3.googleusercontent.com/ytc/AIdro_mR-I4TDlJI7Rc2jwF0cZf6uMnzDpkRggMK4zGOi4eOndY=s480-c-k-c0x00ffffff-no-rj",
                     "fullname": "Cocomelon - Nursery Rhymes",
-                    "is_verified": false,
+                    "is_verified": true,
                     "followers": 184000000,
                     "engagements": 124944,
                     "engagement_rate": 0.0006790434782608695,
@@ -57,6 +57,7 @@
                 "audience_source": "followers"
             }
         },
+
         {
             "account": {
                 "user_profile": {
@@ -65,7 +66,7 @@
                     "custom_name": "setindia",
                     "handle": "SETIndia",
                     "url": "https://www.youtube.com/channel/UCpEhnqL0y41EpW2TvWAHD7Q",
-                    "picture": "https://yt3.googleusercontent.com/eu051krrRNQMMi5h6ynfnvhFJzxzSKulJQ42g5v72MQ9Bvv8KdpNIa6yM-0iGpnDgSF0itAD=s480-c-k-c0x00ffffff-no-rj",
+                    "picture": "https://yt3.googleusercontent.com/vmmZsYmryt238vqck4KAYf69gOSu22ZfqVE3rwT1tYz4hr68xl7crIUK7kghQgR6RiB9IlQ5mQ=s120-c-k-c0x00ffffff-no-rj",
                     "fullname": "SET India",
                     "is_verified": true,
                     "followers": 178000000,
@@ -76,14 +77,18 @@
                 "audience_source": "followers"
             }
         },
+
+        
         {
             "account": {
                 "user_profile": {
+                    
                     "user_id": "UCvlE5gTbOvjiolFlEm-c_Ow",
-                    "custom_name": "VladandNiki",
-                    "handle": "VladandNiki",
+                    "username" : "VladandNiki",
+                    "custom_name": "Vlad and Niki",
+                    "handle": "Vlad and Niki",
                     "url": "https://www.youtube.com/channel/UCvlE5gTbOvjiolFlEm-c_Ow",
-                    "picture": "https://yt3.googleusercontent.com/RlnpUc0SBCmYvseTqUqAfYeyHw0nHcmqQIVS0vMcTKpk3gQAY0ZZY1JpUxxjLPAYROhDYKub=s480-c-k-c0x00ffffff-no-rj",
+                    "picture": "https://yt3.googleusercontent.com/il7dQx5fz3qs2ykOvWQVhtjT-_grY_oPmXlah13q694r_5zUS_7M33pBuUC34Cq0VearBaT1NOE=s120-c-k-c0x00ffffff-no-rj",
                     "fullname": "Vlad and Niki",
                     "is_verified": true,
                     "followers": 126000000,
@@ -99,6 +104,7 @@
                 "user_profile": {
                     "user_id": "UCk8GzjMOrta8yxDcKfylJYw",
                     "custom_name": "KidsDianaShow",
+                    "username" : "KidsDianaShow",
                     "handle": "KidsDianaShow",
                     "url": "https://www.youtube.com/channel/UCk8GzjMOrta8yxDcKfylJYw",
                     "picture": "https://yt3.googleusercontent.com/ytc/AIdro_kWUVocierGiQqzhp6IVSjzD7AgfGErLQUuN5tq9yP54-o=s480-c-k-c0x00ffffff-no-rj",
@@ -116,6 +122,7 @@
             "account": {
                 "user_profile": {
                     "user_id": "UCJplp5SjeGSdVdwsfb9Q7lQ",
+                    "username" : "LikeNastyaOfficial",
                     "handle": "LikeNastyaofficial",
                     "url": "https://www.youtube.com/channel/UCJplp5SjeGSdVdwsfb9Q7lQ",
                     "picture": "https://yt3.googleusercontent.com/ytc/AIdro_kj6ASR_jV8XSSGF_SSD4hUBJInCWwWRlR2mxEcwGVQW4s=s480-c-k-c0x00ffffff-no-rj",
@@ -129,6 +136,7 @@
                 "audience_source": "followers"
             }
         },
+
         {
             "account": {
                 "user_profile": {
@@ -136,7 +144,7 @@
                     "username": "zeemusiccompany",
                     "handle": "zeemusiccompany",
                     "url": "https://www.youtube.com/channel/UCFFbwnve3yF62-tVXkTyHqg",
-                    "picture": "https://yt3.googleusercontent.com/5ozNNrQBUJY8TPt2BYo6fEL-07ilkWHVedWCGFjtvuHU0aYrg1Iop-LJvprodA1_9-MTv7G_YA=s480-c-k-c0x00ffffff-no-rj",
+                    "picture": "https://yt3.googleusercontent.com/zGnrFUqmF6Xp2tM8ecG9sVXyHjJUrqa7GnNV_kATAdAvSwfgIg7693GURHASA7C6OPK3YmGZ=s120-c-k-c0x00ffffff-no-rj",
                     "fullname": "Zee Music Company",
                     "is_verified": true,
                     "followers": 111000000,
@@ -154,7 +162,7 @@
                     "username": "PewDiePie",
                     "handle": "PewDiePie",
                     "url": "https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw",
-                    "picture": "https://yt3.googleusercontent.com/5oUY3tashyxfqsjO5SGhjT4dus8FkN9CsAHwXWISFrdPYii1FudD4ICtLfuCw6-THJsJbgoY=s480-c-k-c0x00ffffff-no-rj",
+                    "picture": "https://yt3.googleusercontent.com/vik8mAiwHQbXiFyKfZ3__p55_VBdGvwxPpuPJBBwdbF0PjJxikXhrP-C3nLQAMAxGNd_-xQCIg=s120-c-k-c0x00ffffff-no-rj",
                     "fullname": "PewDiePie",
                     "is_verified": true,
                     "followers": 110000000,

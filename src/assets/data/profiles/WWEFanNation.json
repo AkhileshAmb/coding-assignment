@@ -1,0 +1,63 @@
+{
+  "cached": true,
+  "contact": {
+    "showEmail": false,
+    "showPhone": false
+  },
+  "data": {
+    "success": true,
+    "version": "2",
+    "report_info": {
+      "report_id": "WWEFanNation",
+      "created": "2026-07-01T00:00:00.000Z",
+      "profile_updated": "2026-07-01T00:00:00.000Z"
+    },
+    "user_profile": {
+      "type": "youtube",
+      "user_id": "UCJ5v_MCY6GNUBTO8-D3XoAg",
+      "username": "WWEFanNation",
+      "custom_name": "WWEFanNation",
+      "handle": "WWE",
+      "url": "https://www.youtube.com/@WWEFanNation",
+      "picture": "YOUR_PROFILE_PICTURE_URL",
+      "fullname": "WWE",
+      "description": "The official WWE YouTube channel featuring highlights, full matches, premium live event moments, interviews, entrances and exclusive content from WWE Superstars.",
+      "is_verified": true,
+      "is_hidden": false,
+      "language": {
+        "code": "en",
+        "name": "English"
+      },
+      "followers": 105000000,
+      "posts_count": 86500,
+      "engagements": 1350000,
+      "engagement_rate": 1.29,
+      "avg_likes": 1350000,
+      "avg_dislikes": 0,
+      "avg_comments": 14300,
+      "avg_views": 28400000,
+      "total_views": 91000000000,
+      "stat_history": [],
+      "geo": {
+        "country": {
+          "id": 148838,
+          "name": "United States",
+          "code": "US"
+        }
+      },
+      "contacts": [],
+      "top_posts": [],
+      "recent_posts": []
+    },
+    "audience_likers": {
+      "success": false,
+      "error": "empty_audience"
+    },
+    "audience_followers": {
+      "success": true,
+      "data": {
+        "audience_lookalikes": []
+      }
+    }
+  }
+}

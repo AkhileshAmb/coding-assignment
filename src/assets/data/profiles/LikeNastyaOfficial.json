@@ -1,0 +1,63 @@
+{
+  "cached": true,
+  "contact": {
+    "showEmail": false,
+    "showPhone": false
+  },
+  "data": {
+    "success": true,
+    "version": "2",
+    "report_info": {
+      "report_id": "LikeNastyaOfficial",
+      "created": "2026-07-01T00:00:00.000Z",
+      "profile_updated": "2026-07-01T00:00:00.000Z"
+    },
+    "user_profile": {
+      "type": "youtube",
+      "user_id": "UCJplp5SjeGSdVdwsfb9Q7lQ",
+      "username": "LikeNastyaOfficial",
+      "custom_name": "LikeNastyaOfficial",
+      "handle": "Like Nastya",
+      "url": "https://www.youtube.com/@LikeNastyaOfficial",
+      "picture": "YOUR_PROFILE_PICTURE_URL",
+      "fullname": "Like Nastya",
+      "description": "Welcome to the official Like Nastya YouTube channel! Enjoy fun family adventures, educational stories, songs, travel, toys and exciting videos for children around the world.",
+      "is_verified": true,
+      "is_hidden": false,
+      "language": {
+        "code": "en",
+        "name": "English"
+      },
+      "followers": 121000000,
+      "posts_count": 960,
+      "engagements": 1280000,
+      "engagement_rate": 1.06,
+      "avg_likes": 1280000,
+      "avg_dislikes": 0,
+      "avg_comments": 15400,
+      "avg_views": 46800000,
+      "total_views": 95000000000,
+      "stat_history": [],
+      "geo": {
+        "country": {
+          "id": 148838,
+          "name": "United States",
+          "code": "US"
+        }
+      },
+      "contacts": [],
+      "top_posts": [],
+      "recent_posts": []
+    },
+    "audience_likers": {
+      "success": false,
+      "error": "empty_audience"
+    },
+    "audience_followers": {
+      "success": true,
+      "data": {
+        "audience_lookalikes": []
+      }
+    }
+  }
+}

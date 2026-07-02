@@ -1,0 +1,63 @@
+{
+  "cached": true,
+  "contact": {
+    "showEmail": false,
+    "showPhone": false
+  },
+  "data": {
+    "success": true,
+    "version": "2",
+    "report_info": {
+      "report_id": "PewDiePie",
+      "created": "2026-07-01T00:00:00.000Z",
+      "profile_updated": "2026-07-01T00:00:00.000Z"
+    },
+    "user_profile": {
+      "type": "youtube",
+      "user_id": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+      "username": "PewDiePie",
+      "custom_name": "PewDiePie",
+      "handle": "PewDiePie",
+      "url": "https://www.youtube.com/@PewDiePie",
+      "picture": "YOUR_PROFILE_PICTURE_URL",
+      "fullname": "PewDiePie",
+      "description": "I'm PewDiePie. I make gaming videos, vlogs, reaction videos and whatever I feel like creating. Thanks for watching and supporting the channel over the years!",
+      "is_verified": true,
+      "is_hidden": false,
+      "language": {
+        "code": "en",
+        "name": "English"
+      },
+      "followers": 110000000,
+      "posts_count": 4800,
+      "engagements": 3350000,
+      "engagement_rate": 3.04,
+      "avg_likes": 3350000,
+      "avg_dislikes": 0,
+      "avg_comments": 47200,
+      "avg_views": 16800000,
+      "total_views": 30000000000,
+      "stat_history": [],
+      "geo": {
+        "country": {
+          "id": 382313,
+          "name": "Japan",
+          "code": "JP"
+        }
+      },
+      "contacts": [],
+      "top_posts": [],
+      "recent_posts": []
+    },
+    "audience_likers": {
+      "success": false,
+      "error": "empty_audience"
+    },
+    "audience_followers": {
+      "success": true,
+      "data": {
+        "audience_lookalikes": []
+      }
+    }
+  }
+}

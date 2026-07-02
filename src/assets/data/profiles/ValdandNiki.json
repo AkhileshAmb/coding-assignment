@@ -1,0 +1,63 @@
+{
+  "cached": true,
+  "contact": {
+    "showEmail": false,
+    "showPhone": false
+  },
+  "data": {
+    "success": true,
+    "version": "2",
+    "report_info": {
+      "report_id": "VladandNiki",
+      "created": "2026-07-01T00:00:00.000Z",
+      "profile_updated": "2026-07-01T00:00:00.000Z"
+    },
+    "user_profile": {
+      "type": "youtube",
+      "user_id": "UCvlE5gTbOvjiolFlEm-c_Ow",
+      "username": "VladandNiki",
+      "custom_name": "VladandNiki",
+      "handle": "Vlad and Niki",
+      "url": "https://www.youtube.com/@VladandNiki",
+      "picture": "YOUR_PROFILE_PICTURE_URL",
+      "fullname": "Vlad and Niki",
+      "description": "Welcome to the official Vlad and Niki YouTube channel! Fun adventures, toys, educational videos, pretend play and family-friendly entertainment.",
+      "is_verified": true,
+      "is_hidden": false,
+      "language": {
+        "code": "en",
+        "name": "English"
+      },
+      "followers": 126000000,
+      "posts_count": 820,
+      "engagements": 1500000,
+      "engagement_rate": 1.19,
+      "avg_likes": 1500000,
+      "avg_dislikes": 0,
+      "avg_comments": 18421,
+      "avg_views": 52410630,
+      "total_views": 98000000000,
+      "stat_history": [],
+      "geo": {
+        "country": {
+          "id": 148838,
+          "name": "United States",
+          "code": "US"
+        }
+      },
+      "contacts": [],
+      "top_posts": [],
+      "recent_posts": []
+    },
+    "audience_likers": {
+      "success": false,
+      "error": "empty_audience"
+    },
+    "audience_followers": {
+      "success": true,
+      "data": {
+        "audience_lookalikes": []
+      }
+    }
+  }
+}

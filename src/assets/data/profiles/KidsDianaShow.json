@@ -1,0 +1,63 @@
+{
+  "cached": true,
+  "contact": {
+    "showEmail": false,
+    "showPhone": false
+  },
+  "data": {
+    "success": true,
+    "version": "2",
+    "report_info": {
+      "report_id": "KidsDianaShow",
+      "created": "2026-07-01T00:00:00.000Z",
+      "profile_updated": "2026-07-01T00:00:00.000Z"
+    },
+    "user_profile": {
+      "type": "youtube",
+      "user_id": "UCk8GzjMOrta8yxDcKfylJYw",
+      "username": "KidsDianaShow",
+      "custom_name": "KidsDianaShow",
+      "handle": "Kids Diana Show",
+      "url": "https://www.youtube.com/@KidsDianaShow",
+      "picture": "YOUR_PROFILE_PICTURE_URL",
+      "fullname": "Kids Diana Show",
+      "description": "Kids Diana Show features Diana and her family in fun educational adventures, pretend play, toys and children's entertainment.",
+      "is_verified": true,
+      "is_hidden": false,
+      "language": {
+        "code": "en",
+        "name": "English"
+      },
+      "followers": 126000000,
+      "posts_count": 1100,
+      "engagements": 1430000,
+      "engagement_rate": 1.14,
+      "avg_likes": 1430000,
+      "avg_dislikes": 0,
+      "avg_comments": 16200,
+      "avg_views": 49800000,
+      "total_views": 101000000000,
+      "stat_history": [],
+      "geo": {
+        "country": {
+          "id": 690791,
+          "name": "Ukraine",
+          "code": "UA"
+        }
+      },
+      "contacts": [],
+      "top_posts": [],
+      "recent_posts": []
+    },
+    "audience_likers": {
+      "success": false,
+      "error": "empty_audience"
+    },
+    "audience_followers": {
+      "success": true,
+      "data": {
+        "audience_lookalikes": []
+      }
+    }
+  }
+}

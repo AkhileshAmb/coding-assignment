@@ -28,16 +28,23 @@ export interface SearchData {
 
 export interface FullUserProfile extends UserProfileSummary {
   type?: string;
+  custom_name?: string;
+  handle?: string;
   description?: string;
+  language?: {
+    code: string;
+    name: string;
+  };
   is_business?: boolean;
   posts_count?: number;
   avg_likes?: number;
   avg_comments?: number;
   avg_reels_plays?: number;
+  avg_dislikes?: number;
+  total_views?: number;
   gender?: string;
   age_group?: string;
 }
-
 export interface ProfileDetailResponse {
   cached?: boolean;
   data: {

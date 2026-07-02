@@ -1,0 +1,33 @@
+{
+  "cached": true,
+  "contact": {
+    "showEmail": false,
+    "showPhone": false
+  },
+  "data": {
+    "success": true,
+    "version": "2",
+    "report_info": {
+      "report_id": "beyonce_profile",
+      "created": "2026-07-02T00:00:00.000Z",
+      "profile_updated": "2026-07-02T00:00:00.000Z"
+    },
+    "user_profile": {
+      "type": "instagram",
+      "user_id": "247944034",
+      "username": "beyonce",
+      "url": "https://www.instagram.com/beyonce",
+      "picture": "PASTE_THE_SAME_PICTURE_URL_FROM_search_instagram_json",
+      "fullname": "Beyoncé",
+      "description": "Artist • Entrepreneur",
+      "is_verified": true,
+      "followers": 312000000,
+      "posts_count": 2300,
+      "engagements": 2400000,
+      "engagement_rate": 0.0077,
+      "avg_likes": 2400000,
+      "avg_comments": 22000,
+      "avg_views": 0
+    }
+  }
+}

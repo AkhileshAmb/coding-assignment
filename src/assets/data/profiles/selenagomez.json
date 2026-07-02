@@ -1,0 +1,33 @@
+{
+  "cached": true,
+  "contact": {
+    "showEmail": false,
+    "showPhone": false
+  },
+  "data": {
+    "success": true,
+    "version": "2",
+    "report_info": {
+      "report_id": "selenagomez_profile",
+      "created": "2026-07-02T00:00:00.000Z",
+      "profile_updated": "2026-07-02T00:00:00.000Z"
+    },
+    "user_profile": {
+      "type": "instagram",
+      "user_id": "460563723",
+      "username": "selenagomez",
+      "url": "https://www.instagram.com/selenagomez",
+      "picture": "PASTE_THE_SAME_PICTURE_URL_FROM_search_instagram_json",
+      "fullname": "Selena Gomez",
+      "description": "Singer, actress, producer and founder of Rare Beauty.",
+      "is_verified": true,
+      "followers": 420000000,
+      "posts_count": 2000,
+      "engagements": 3100000,
+      "engagement_rate": 0.0074,
+      "avg_likes": 3100000,
+      "avg_comments": 24000,
+      "avg_views": 0
+    }
+  }
+}
