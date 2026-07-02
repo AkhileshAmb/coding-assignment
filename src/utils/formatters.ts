@@ -12,3 +12,11 @@ export function formatEngagementRate(rate: number | undefined): string {
   if (rate === undefined) return "N/A";
   return (rate * 100).toFixed(2) + "%";
 }
+
+export function getInitials(name: string): string {
+  if (!name) return "?";
+  const parts = name.trim().split(/\s+/);
+  const first = parts[0]?.[0] ?? "";
+  const second = parts.length > 1 ? parts[parts.length - 1][0] : "";
+  return (first + second).toUpperCase() || "?";
+}

@@ -19,11 +19,7 @@ export function SearchPage() {
   };
 
   return (
-    <Layout title="Find Influencers">
-      <p className="text-gray-500 mb-4 text-sm">
-        Browse top creators across social platforms
-      </p>
-
+    <Layout title="Find Influencers" subtitle="Browse top creators across social platforms">
       <PlatformFilter
         selected={platform}
         onChange={(p) => {
@@ -34,7 +30,7 @@ export function SearchPage() {
         onSearchChange={setSearchQuery}
       />
 
-      <p className="text-xs text-gray-400 mb-2">
+      <p className="text-xs text-[var(--text)] mb-4 text-center sm:text-left">
         Showing {filtered.length} of {allProfiles.length} on {platform}
       </p>
 
